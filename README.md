@@ -1,10 +1,28 @@
-- 👋 Hi, I’m @ShamilPisarev
-- 👀 I’m interested in Data Science and AI.
-- 🌱 I’m currently learning Python for Data Science and Machine Learning.
-- 💞️ I’m looking to collaborate on Data Science projects.
-- 📫 How to reach me: schaim1993@gmail.com
+# Hi, I'm Shamil 👋
 
-<!---
-ShamilPisarev/ShamilPisarev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a Data Engineer and AI Automation Engineer focused on practical business systems using Python, LLMs, RAG, Power BI, Azure, SQL, and workflow automation.
+
+## What I build
+
+- AI workflow automations
+- PDF/document RAG systems
+- Power BI dashboards
+- Python ETL pipelines
+- Internal AI tools
+- API integrations
+- Trading/data dashboards
+
+## Selected projects
+
+### WheelTrack
+Options wheel strategy tracker for retail traders. Tracks CSPs, covered calls, adjusted cost basis, premium income, and historical price ranges.
+
+### LLM Arena
+A simple interface for comparing responses from multiple LLMs side by side.
+
+### PDF RAG / Document AI
+Experience building RAG systems for financial and fund-related documents using Python, Azure Functions, embeddings, and LLMs.
+
+## Tech stack
+
+Python · SQL · Power BI · Azure · AWS · Supabase · Next.js · TypeScript · OpenAI API · RAG · Docker · Kubernetes · Ollama · vLLM
